@@ -1,0 +1,2 @@
+This is result of combine file1 and file2 Hello this is first file ,
+            Hello this is second file
